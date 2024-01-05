@@ -1,13 +1,6 @@
 # Skeleton repository for STQAM
 
-All code for the course will be distributed through this repository. 
-
-Each student/group also has a personal repository to submit their work. 
-The location of student repository is at
-
-  https://git.uwaterloo.ca/stqam-1239/class/<USERID>
-
-where <USERID> is the student gitlab user id (usually the same as Quest user id)
+All code for the course will be distributed through this repository.
 
 ## Initial setup instructions
 
